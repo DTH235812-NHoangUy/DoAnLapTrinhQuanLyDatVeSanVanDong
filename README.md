@@ -1,5 +1,5 @@
 # DoAnLapTrinhQuanLyDatVeSanVanDong
-# 🏟️ ĐỒ ÁN LẬP TRÌNH .NET - QUẢN LÝ ĐẶT VÉ SÂN VẬN ĐỘNG
+# 🏟️ ĐỒ ÁN LẬP TRÌNH QUẢN LÝ - QUẢN LÝ ĐẶT VÉ SÂN VẬN ĐỘNG
 
 ## 👨‍💻 Thông tin nhóm
 
@@ -12,7 +12,7 @@
 
 ## 📘 Môn học
 
-* **Tên môn:** Lập trình .NET / Lập trình cơ sở dữ liệu
+* **Tên môn:** Lập trình QUẢN LÝ / Lập trình cơ sở dữ liệu
 * **Đề tài:** Xây dựng hệ thống quản lý đặt vé và vận hành sân vận động thông minh
 * **Ngôn ngữ:** C# (.NET)
 * **Cơ sở dữ liệu:** Microsoft SQL Server (Quy mô 40 bảng)
