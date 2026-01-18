@@ -1,8 +1,8 @@
 namespace DoAnLapTrinhQuanLyDatVeSanVanDong
 {
-    public partial class Form1 : Form
+    public partial class HamDangNhap : Form
     {
-        public Form1()
+        public HamDangNhap()
         {
             InitializeComponent();
         }

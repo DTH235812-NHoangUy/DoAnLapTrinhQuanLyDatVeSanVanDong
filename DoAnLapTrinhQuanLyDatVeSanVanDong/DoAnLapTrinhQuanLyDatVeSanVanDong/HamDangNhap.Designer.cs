@@ -1,6 +1,6 @@
 ﻿namespace DoAnLapTrinhQuanLyDatVeSanVanDong
 {
-    partial class Form1
+    partial class HamDangNhap
     {
         /// <summary>
         ///  Required designer variable.
